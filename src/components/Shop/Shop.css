@@ -25,3 +25,9 @@
     justify-content: space-between;
     align-items: center;
 }
+
+.pagination{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
